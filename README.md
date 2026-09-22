@@ -84,7 +84,7 @@ Through this project, I practiced:
 
 ## 📸 Project Preview
 
-./images/preview
+![X Clones](./images/preview.png)
 
 ## ⚠️ Disclaimer
 
